@@ -1,0 +1,2 @@
+# JavaScript
+how to script
