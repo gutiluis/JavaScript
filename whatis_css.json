@@ -1,0 +1,17 @@
+{
+  "CSS": [
+    "cascading style sheets",
+    "order in which styles are applied",
+    "how conficlts are resolved",
+    "it first applies the default styles provided by. the web browser"
+  ],
+  "what_is_stylesheets": [
+    "is a file that contains rules",
+    "contains instructions that control the presentation",
+    "control the layout of elements on a webpage"
+  ],
+  "what_do_they_define": [
+    "how HTML elements should appear",
+    "fonts, colors, margins, and positioning"
+  ]
+}
